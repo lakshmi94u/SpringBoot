@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.product</groupId>
 	<artifactId>INGSuite</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>INGSuite</name>
 	<description>ING Suite of Products </description>
 
@@ -78,7 +78,7 @@
 <distributionManagement>
   <snapshotRepository>
     <id>snapshots</id>
-    <url>http://13.232.235.54:8081/nexus/content/repositories/snapshots</url>
+    <url>http://52.66.251.165:8081/nexus/content/repositories/snapshots</url>
   </snapshotRepository>
 </distributionManagement>
 
